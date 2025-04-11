@@ -39,12 +39,13 @@ namespace TodosBackEnd.Service.Todos
         public bool UpdateTodo(Todo todo)
         {
             var existTodo = _context.Todos.Find(todo.Id);
+
             if (existTodo == null) return false;
-            if(existTodo.Name == todo.Name)
-            {
-                return false;
-            }
-            _context.Todos.Update(todo);
+
+            if (existTodo.Name == todo.Name) return false;
+
+            existTodo.Name = todo.Name;
+
             return _context.SaveChanges() > 0;
         }
     }

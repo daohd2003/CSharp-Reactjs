@@ -55,7 +55,9 @@ const Todos = () => {
     event.target[0].value = ''
     event.target[1].value = null
     setTxtBtn('Thêm mới')
-    todoRef.current[id].className = 'fas fa-edit'
+    if (id && todoRef.current[id]) {
+      todoRef.current[id].className = 'fas fa-edit'
+    }
   }
 
   const editTodo = (id) => {
