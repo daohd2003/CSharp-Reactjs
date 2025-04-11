@@ -1,0 +1,282 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|d:\\react\u002Bcsharp\\csharp\\todosbackend\\todosbackend\\service\\todos\\todosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\service\\todos\\todosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|d:\\react\u002Bcsharp\\csharp\\todosbackend\\todosbackend\\service\\todos\\itodosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\service\\todos\\itodosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|d:\\react\u002Bcsharp\\csharp\\todosbackend\\todosbackend\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\controllers\\todoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|d:\\react\u002Bcsharp\\csharp\\todosbackend\\todosbackend\\data\\todosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\data\\todosdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|d:\\react\u002Bcsharp\\csharp\\todosbackend\\todosbackend\\data\\tododbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\data\\tododbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|d:\\react\u002Bcsharp\\csharp\\todosbackend\\todosbackend\\configuration\\todoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\configuration\\todoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|d:\\react\u002Bcsharp\\csharp\\todosbackend\\todosbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|d:\\react\u002Bcsharp\\csharp\\todosbackend\\todosbackend\\seeders\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\seeders\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|d:\\react\u002Bcsharp\\csharp\\todosbackend\\todosbackend\\migrations\\todosdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\migrations\\todosdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|d:\\react\u002Bcsharp\\csharp\\todosbackend\\todosbackend\\migrations\\20250411005344_init-todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\migrations\\20250411005344_init-todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|d:\\react\u002Bcsharp\\csharp\\todosbackend\\todosbackend\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 67,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:13:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:8:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:9:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodosDbContext.cs",
+              "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Data\\TodosDbContext.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Data\\TodosDbContext.cs",
+              "ToolTip": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Data\\TodosDbContext.cs",
+              "RelativeToolTip": "TodosBackEnd\\Data\\TodosDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T00:10:10.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Program.cs",
+              "ToolTip": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Program.cs",
+              "RelativeToolTip": "TodosBackEnd\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T05:46:51.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoDbContextFactory.cs",
+              "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Data\\TodoDbContextFactory.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Data\\TodoDbContextFactory.cs",
+              "ToolTip": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Data\\TodoDbContextFactory.cs",
+              "RelativeToolTip": "TodosBackEnd\\Data\\TodoDbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T00:29:14.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TodoConfiguration.cs",
+              "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Configuration\\TodoConfiguration.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Configuration\\TodoConfiguration.cs",
+              "ToolTip": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Configuration\\TodoConfiguration.cs",
+              "RelativeToolTip": "TodosBackEnd\\Configuration\\TodoConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T00:22:14.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodosController.cs",
+              "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Controllers\\TodosController.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Controllers\\TodosController.cs",
+              "ToolTip": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Controllers\\TodosController.cs",
+              "RelativeToolTip": "TodosBackEnd\\Controllers\\TodosController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvywAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T04:36:51.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ITodosService.cs",
+              "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Service\\Todos\\ITodosService.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Service\\Todos\\ITodosService.cs",
+              "ToolTip": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Service\\Todos\\ITodosService.cs",
+              "RelativeToolTip": "TodosBackEnd\\Service\\Todos\\ITodosService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T00:56:53.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodosService.cs",
+              "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Service\\Todos\\TodosService.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Service\\Todos\\TodosService.cs",
+              "ToolTip": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Service\\Todos\\TodosService.cs",
+              "RelativeToolTip": "TodosBackEnd\\Service\\Todos\\TodosService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAuwCwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T00:59:43.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Seeders\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Seeders\\DatabaseSeeder.cs",
+              "ToolTip": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Seeders\\DatabaseSeeder.cs",
+              "RelativeToolTip": "TodosBackEnd\\Seeders\\DatabaseSeeder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T00:45:09.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodosDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Migrations\\TodosDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Migrations\\TodosDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Migrations\\TodosDbContextModelSnapshot.cs",
+              "RelativeToolTip": "TodosBackEnd\\Migrations\\TodosDbContextModelSnapshot.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T01:28:54.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250411005344_init-todos.cs",
+              "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Migrations\\20250411005344_init-todos.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Migrations\\20250411005344_init-todos.cs",
+              "ToolTip": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Migrations\\20250411005344_init-todos.cs",
+              "RelativeToolTip": "TodosBackEnd\\Migrations\\20250411005344_init-todos.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T00:53:45.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Models\\Todo.cs",
+              "ToolTip": "D:\\React\u002BCsharp\\CSharp\\TodosBackEnd\\TodosBackEnd\\Models\\Todo.cs",
+              "RelativeToolTip": "TodosBackEnd\\Models\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T00:23:21.491Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 138,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:10:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
