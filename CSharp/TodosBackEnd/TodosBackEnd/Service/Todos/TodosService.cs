@@ -36,15 +36,30 @@ namespace TodosBackEnd.Service.Todos
             return _context.Todos.ToList();
         }
 
-        public bool UpdateTodo(Todo todo)
+        public bool UpdateTodo(Todo updatedTodo)
         {
-            var existTodo = _context.Todos.Find(todo.Id);
+            if (updatedTodo == null) return false;
 
-            if (existTodo == null) return false;
+            var existingTodo = _context.Todos.Find(updatedTodo.Id);
+            if (existingTodo == null) return false;
 
-            if (existTodo.Name == todo.Name) return false;
+            // Lấy tất cả properties của Todo
+            var properties = typeof(Todo).GetProperties();
 
-            existTodo.Name = todo.Name;
+            foreach (var property in properties)
+            {
+                // Không update Id (vì là khóa chính)
+                if (property.Name == "Id") continue;
+
+                var newValue = property.GetValue(updatedTodo);
+                var oldValue = property.GetValue(existingTodo);
+
+                // Chỉ update nếu giá trị thay đổi
+                if (!Equals(oldValue, newValue))
+                {
+                    property.SetValue(existingTodo, newValue);
+                }
+            }
 
             return _context.SaveChanges() > 0;
         }

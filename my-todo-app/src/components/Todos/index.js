@@ -85,6 +85,21 @@ const Todos = () => {
     }
   }
 
+  const onIsCompleteTodo = async (todo) => {
+    if (todo.isCompleted) {
+      await editTodosAPI({
+        ...todo,
+        isCompleted: false
+      });
+    } else {
+      await editTodosAPI({
+        ...todo,
+        isCompleted: true
+      });
+    }
+    featchData()
+  }
+
   return (
     <main id="todolist">
       <h1>
@@ -94,7 +109,7 @@ const Todos = () => {
 
       {todos ? (
         todos?.map((item, key) => (
-          <li className={item.isComplete ? 'done' : ''} key={key}>
+          <li className={item.isCompleted ? 'done' : ''} key={key} onDoubleClick={() => onIsCompleteTodo(item)}>
             <span className="label">{item.name}</span>
             <div className="actions">
               <button

@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\service\\todos\\todosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|d:\\react\u002Bcsharp\\csharp-reactjs\\csharp\\todosbackend\\todosbackend\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|d:\\react\u002Bcsharp\\csharp-reactjs\\csharp\\todosbackend\\todosbackend\\service\\todos\\itodosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\service\\todos\\itodosservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -41,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|d:\\react\u002Bcsharp\\csharp-reactjs\\csharp\\todosbackend\\todosbackend\\migrations\\20250411005344_init-todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\migrations\\20250411005344_init-todos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|d:\\react\u002Bcsharp\\csharp-reactjs\\csharp\\todosbackend\\todosbackend\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{33CCFA28-BD3A-4711-82BF-372A5A6D33A0}|TodosBackEnd\\TodosBackEnd.csproj|solutionrelative:todosbackend\\models\\todo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "TodosDbContext.cs",
               "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp-Reactjs\\CSharp\\TodosBackEnd\\TodosBackEnd\\Data\\TodosDbContext.cs",
               "RelativeDocumentMoniker": "TodosBackEnd\\Data\\TodosDbContext.cs",
@@ -134,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp-Reactjs\\CSharp\\TodosBackEnd\\TodosBackEnd\\Program.cs",
               "RelativeDocumentMoniker": "TodosBackEnd\\Program.cs",
@@ -146,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "TodoDbContextFactory.cs",
               "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp-Reactjs\\CSharp\\TodosBackEnd\\TodosBackEnd\\Data\\TodoDbContextFactory.cs",
               "RelativeDocumentMoniker": "TodosBackEnd\\Data\\TodoDbContextFactory.cs",
@@ -158,7 +158,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "TodoConfiguration.cs",
               "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp-Reactjs\\CSharp\\TodosBackEnd\\TodosBackEnd\\Configuration\\TodoConfiguration.cs",
               "RelativeDocumentMoniker": "TodosBackEnd\\Configuration\\TodoConfiguration.cs",
@@ -170,7 +170,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TodosController.cs",
               "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp-Reactjs\\CSharp\\TodosBackEnd\\TodosBackEnd\\Controllers\\TodosController.cs",
               "RelativeDocumentMoniker": "TodosBackEnd\\Controllers\\TodosController.cs",
@@ -182,7 +182,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ITodosService.cs",
               "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp-Reactjs\\CSharp\\TodosBackEnd\\TodosBackEnd\\Service\\Todos\\ITodosService.cs",
               "RelativeDocumentMoniker": "TodosBackEnd\\Service\\Todos\\ITodosService.cs",
@@ -200,14 +200,27 @@
               "RelativeDocumentMoniker": "TodosBackEnd\\Service\\Todos\\TodosService.cs",
               "ToolTip": "D:\\React\u002BCsharp\\CSharp-Reactjs\\CSharp\\TodosBackEnd\\TodosBackEnd\\Service\\Todos\\TodosService.cs",
               "RelativeToolTip": "TodosBackEnd\\Service\\Todos\\TodosService.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAACYAAAAmAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAACgAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T00:59:43.022Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "Todo.cs",
+              "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp-Reactjs\\CSharp\\TodosBackEnd\\TodosBackEnd\\Models\\Todo.cs",
+              "RelativeDocumentMoniker": "TodosBackEnd\\Models\\Todo.cs",
+              "ToolTip": "D:\\React\u002BCsharp\\CSharp-Reactjs\\CSharp\\TodosBackEnd\\TodosBackEnd\\Models\\Todo.cs",
+              "RelativeToolTip": "TodosBackEnd\\Models\\Todo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T00:23:21.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DatabaseSeeder.cs",
               "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp-Reactjs\\CSharp\\TodosBackEnd\\TodosBackEnd\\Seeders\\DatabaseSeeder.cs",
               "RelativeDocumentMoniker": "TodosBackEnd\\Seeders\\DatabaseSeeder.cs",
@@ -219,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "TodosDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp-Reactjs\\CSharp\\TodosBackEnd\\TodosBackEnd\\Migrations\\TodosDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "TodosBackEnd\\Migrations\\TodosDbContextModelSnapshot.cs",
@@ -231,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "20250411005344_init-todos.cs",
               "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp-Reactjs\\CSharp\\TodosBackEnd\\TodosBackEnd\\Migrations\\20250411005344_init-todos.cs",
               "RelativeDocumentMoniker": "TodosBackEnd\\Migrations\\20250411005344_init-todos.cs",
@@ -240,18 +253,6 @@
               "ViewState": "AQIAAAQAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-11T00:53:45.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Todo.cs",
-              "DocumentMoniker": "D:\\React\u002BCsharp\\CSharp-Reactjs\\CSharp\\TodosBackEnd\\TodosBackEnd\\Models\\Todo.cs",
-              "RelativeDocumentMoniker": "TodosBackEnd\\Models\\Todo.cs",
-              "ToolTip": "D:\\React\u002BCsharp\\CSharp-Reactjs\\CSharp\\TodosBackEnd\\TodosBackEnd\\Models\\Todo.cs",
-              "RelativeToolTip": "TodosBackEnd\\Models\\Todo.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T00:23:21.491Z"
             }
           ]
         },
